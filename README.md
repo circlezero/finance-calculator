@@ -1,39 +1,10 @@
 # finance-calculator
 재테크를 시작하는 사회 초년생, 금융 문맹 탈출을 위한 계산기
 
-# Getting Started with Create React App
+<!-- 각 질문에 해당하는 내용을 찾아온 사이트들도 나중에 참조 사이트로 README에 추가할것 ex: 위키백과 등 -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 질문 리스트
+1. 목돈 만드는데 어느정도 걸릴까요?
+2. 파이어족이 되고 싶은데 얼마가 있어야 할까요?
+3. 희망 회로 계산기
+4. DTI, DTR, LTV가 뭔가요?
