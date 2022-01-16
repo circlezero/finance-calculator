@@ -2,8 +2,8 @@ import { Box, Input, Typography } from "@mui/material";
 import React, { FC, useState } from "react";
 
 const ConvertFeet: FC = () => {
-  const [feetValue, setFeetValue] = useState("");
-  const [meterValue, setMeterValue] = useState("");
+  const [feetValue, setFeetValue] = useState<string>("");
+  const [meterValue, setMeterValue] = useState<string>("");
 
   const regex = /[^0-9]/g;
 
